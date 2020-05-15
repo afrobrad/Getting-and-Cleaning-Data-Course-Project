@@ -2,7 +2,7 @@
 title: "Getting and Cleaning Data Course Project ReadMe"
 author: "Brad Martin"
 date: "15 May 2020"
-output: html_document
+output: github_document
 ---
 
 # Outline
