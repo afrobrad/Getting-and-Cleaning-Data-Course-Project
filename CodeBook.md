@@ -68,8 +68,9 @@ Additional Raw measurement data contained in the original data package was not r
 
 
 
-##### Example of first 10 columns of x-test.txt and y-test.txt
-![](C:/Users/afrob/Documents/Getting-and-Cleaning-Data-Course-Project/Xtrain.png)  
+##### Example of first 10 columns of x-test.txt and y-test.txt  
+![](C:/Users/afrob/Documents/Getting-and-Cleaning-Data-Course-Project/Xtrain.png)
+
 
 #### Example of y_train.txt and y-test.txt  
 ![](C:/Users/afrob/Documents/Getting-and-Cleaning-Data-Course-Project/Ytrain.png)
@@ -77,7 +78,7 @@ Additional Raw measurement data contained in the original data package was not r
 #### Example of features.txt  
 ![](C:/Users/afrob/Documents/Getting-and-Cleaning-Data-Course-Project/Features.png)
 
-#### Example of activity_labels.txt
+#### Example of activity_labels.txt  
 ![](C:/Users/afrob/Documents/Getting-and-Cleaning-Data-Course-Project/ActivityLabel.png)
 
 
