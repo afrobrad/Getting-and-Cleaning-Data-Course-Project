@@ -80,21 +80,21 @@ corresponded in each file to the same observation.
 Additional Raw measurement data contained in the original data package
 was not required for the project deliverables.
 
-##### Example of first 10 columns of x-test.txt and y-test.txt
+#### Example of first 10 columns of x-test.txt and y-test.txt
 
-![](C:/Users/afrob/Documents/Getting-and-Cleaning-Data-Course-Project/Xtrain.png)
+[Link](<https://github.com/afrobrad/Getting-and-Cleaning-Data-Course-Project/blob/master/Xtrain.PNG>)
 
 #### Example of y\_train.txt and y-test.txt
 
-![](C:/Users/afrob/Documents/Getting-and-Cleaning-Data-Course-Project/Ytrain.png)
+[Link](<https://github.com/afrobrad/Getting-and-Cleaning-Data-Course-Project/blob/master/Ytrain.PNG>)
 
 #### Example of features.txt
 
-![](C:/Users/afrob/Documents/Getting-and-Cleaning-Data-Course-Project/Features.png)
+[Link](<https://github.com/afrobrad/Getting-and-Cleaning-Data-Course-Project/blob/master/Features.PNG>)
 
 #### Example of activity\_labels.txt
 
-![](C:/Users/afrob/Documents/Getting-and-Cleaning-Data-Course-Project/ActivityLabel.png)
+[Link](<https://github.com/afrobrad/Getting-and-Cleaning-Data-Course-Project/blob/master/ActivityLabel.PNG>)
 
 # Tidy Script
 
@@ -252,8 +252,8 @@ The tidy script results in the following outputs:
 
 ### Xmerged
 
-![](C:/Users/afrob/Documents/Getting-and-Cleaning-Data-Course-Project/Xmerged.png)
+[Link](<https://github.com/afrobrad/Getting-and-Cleaning-Data-Course-Project/blob/master/Xmerged.PNG>)
 
 ### Xgrouped
 
-![](C:/Users/afrob/Documents/Getting-and-Cleaning-Data-Course-Project/Xgrouped.png)
+[Link](<https://github.com/afrobrad/Getting-and-Cleaning-Data-Course-Project/blob/master/Xgrouped.PNG>)
