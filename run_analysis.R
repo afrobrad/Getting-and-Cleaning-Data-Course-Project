@@ -52,3 +52,5 @@ Xgrouped <- group_by(Xmerged,Activity,TestSubject)
 
 #calculate the mean of each grouping
 Xgrouped <-summarise_at(Xgrouped,.vars=ExtractedNames,mean,rm.na=TRUE)
+
+write.table(Xgrouped,file="../Xgrouped.txt",row.name=FALSE)
